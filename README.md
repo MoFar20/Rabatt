@@ -1,6 +1,6 @@
 # Rabatt
 
-## Erstellen Sie eine Webseite, die die folgende Funktionalit¨at implementiert: 
+## Erstellen Sie eine Webseite, die die folgende Funktionalität implementiert: 
 * Der Benutzer soll die Möglichkeit haben, einen Geldbetrag in ein Textfeld einzugeben.
 * Die Webseite soll dann einen definierten Rabatt auf diesen Betrag anwenden und den reduzierten Betrag auf der Seite anzeigen.
 * Falls Beitragswert ist weniger als 100€ dann consol soll "Mindestbestellwert nicht erreicht" schauen.
